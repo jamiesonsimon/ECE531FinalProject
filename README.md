@@ -1,2 +1,2 @@
-# ECE531HW2
-Repo for ECE531 HW2 in Mod3
+# ECE531 Final Project
+Repo for ECE531 Final Project
